@@ -7,5 +7,7 @@ Steps are:
 2. Create basic/abstract objects and if applicable abstract interfaces/methods.
 3. Decide on utilization of one object/action, make a running program out of it!
 
-Have fun with it. This exercize could be used to describe ('paint') anything from a room and an apartment to a roller coaster.
+This exercise could be used to describe ('paint') anything from a room in an apartment to a roller coaster.
 Using a SOLID approach, anything at all is possible. Don't be afraid to refactor and have fun!
+
+Useful alone, best as pair coding practice. Encourages if not forces compromise, group observation and shared implementation (no one sees a tree exactly the same way another person does---we should be able to build programs which don't care about that dissonance).
