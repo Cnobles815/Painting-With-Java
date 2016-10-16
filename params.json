@@ -1,0 +1,6 @@
+{
+  "name": "Painting-with-java",
+  "tagline": "Java object exercise---describing objects and their relationships through Java. (I made this up.)",
+  "body": "# Painting-With-Java\r\nJava object exercise---describing objects and their relationships through Java. (I made this up.)\r\nThe idea is to be able to sit anywhere in the world and PAIR CODE the environment or something about it.\r\nSteps are:\r\n\r\n1. Establish what the 'atomic level' is for the painting. How detailed do you want to go?\r\n2. Create basic/abstract objects and if applicable abstract interfaces/methods.\r\n3. Decide on utilization of one object/action, make a running program out of it!\r\n\r\nThis exercise could be used to describe ('paint') anything from a room in an apartment to a roller coaster.\r\nUsing a SOLID approach, anything at all is possible. Don't be afraid to refactor and have fun!\r\n\r\nUseful alone, best as pair coding practice. Encourages if not forces compromise, group observation and shared implementation (no one sees a tree exactly the same way another person does---we should be able to build programs which don't care about that dissonance).\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
