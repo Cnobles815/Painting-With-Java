@@ -12,4 +12,3 @@ Using a SOLID approach, anything at all is possible. Don't be afraid to refactor
 
 Useful alone, best as pair coding practice. Encourages if not forces compromise, group observation and shared implementation (no one sees a tree exactly the same way another person does---we should be able to build programs which don't care about that dissonance).
 
-NEW CHANGES!!!
