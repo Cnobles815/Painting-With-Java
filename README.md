@@ -11,3 +11,5 @@ This exercise could be used to describe ('paint') anything from a room in an apa
 Using a SOLID approach, anything at all is possible. Don't be afraid to refactor and have fun!
 
 Useful alone, best as pair coding practice. Encourages if not forces compromise, group observation and shared implementation (no one sees a tree exactly the same way another person does---we should be able to build programs which don't care about that dissonance).
+
+NEW CHANGES!!!
